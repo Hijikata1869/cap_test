@@ -1,0 +1,6 @@
+# Logfile created on 2022-05-11 20:22:46 +0900 by logger.rb/v1.4.2
+  INFO ---------------------------------------------------------------------------
+  INFO START 2022-05-11 20:22:46 +0900 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e3c2afda] Running /usr/bin/env sudo mkdir -pv /var/www/cap_test as deploy@160.16.131.228
+ DEBUG [e3c2afda] Command: /usr/bin/env sudo mkdir -pv /var/www/cap_test
